@@ -1,0 +1,1894 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Book rdf:about="urn:isbn:978-92-870-4367-2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>World Trade Organization Geneva</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yotov</foaf:surname>
+                        <foaf:givenName>Yoto V</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Piermartini</foaf:surname>
+                        <foaf:givenName>Roberta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Monteiro</foaf:surname>
+                        <foaf:givenName>José-Antonio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Larch</foaf:surname>
+                        <foaf:givenName>Mario</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_96"/>
+        <dc:title>An advanced guide to trade policy analysis: The structural gravity model</dc:title>
+        <dc:date>2016</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://vi.unctad.org/tpa/web/vol2/vol2home.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:identifier>ISBN 978-92-870-4367-2</dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_96">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/96/An advanced guide to trade policy analysis: The structural gravity model.pdf"/>
+        <dc:title>An advanced guide to trade policy analysis: The structural gravity model.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="https://r.tiid.org/R_structural_gravity/">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>UN ESCAP</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vargas</foaf:surname>
+                        <foaf:givenName>Mauricio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Solutions Manual for An Advanced Guide to Trade Policy Analysis in R</dc:title>
+        <dc:date>2021</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://r.tiid.org/R_structural_gravity/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <prism:edition>2nd</prism:edition>
+    </bib:Book>
+    <bib:Article rdf:about="https://direct.mit.edu/rest/article-abstract/88/4/641/57668/The-Log-of-Gravity">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>88</prism:volume>
+                <dc:title>The Review of Economics and statistics</dc:title>
+                <dc:identifier>DOI 10.1162/rest.88.4.641</dc:identifier>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Silva</foaf:surname>
+                        <foaf:givenName>JMC Santos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tenreyro</foaf:surname>
+                        <foaf:givenName>Silvana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_125"/>
+        <dc:title>The log of gravity</dc:title>
+        <dc:date>2006</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://direct.mit.edu/rest/article-abstract/88/4/641/57668/The-Log-of-Gravity</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>641–658</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_125">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/125/The log of gravity.pdf"/>
+        <dc:title>The log of gravity.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://joss.theoj.org/papers/10.21105/joss.01038">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>31</prism:volume>
+                <dc:title>Journal of Open Source Software</dc:title>
+                <dc:identifier>DOI 10.21105/joss.01038</dc:identifier>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Woelwer</foaf:surname>
+                        <foaf:givenName>Anna Lenna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burgard</foaf:surname>
+                        <foaf:givenName>Jan Pablo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kunst</foaf:surname>
+                        <foaf:givenName>Joshua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vargas</foaf:surname>
+                        <foaf:givenName>Mauricio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_106"/>
+        <dc:title>Gravity: Estimation Methods for Gravity Models in R</dc:title>
+        <dc:date>2018</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://joss.theoj.org/papers/10.21105/joss.01038</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1038</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_106">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/106/Gravity: Estimation Methods for Gravity Models in R.pdf"/>
+        <dc:title>Gravity: Estimation Methods for Gravity Models in R.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="http://www.cepii.fr/CEPII/en/publications/wp/abstract.asp?NoDoc=3877">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>CEPII</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mayer</foaf:surname>
+                        <foaf:givenName>Thierry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zignago</foaf:surname>
+                        <foaf:givenName>Soledad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_111"/>
+        <dc:title>Notes on CEPII’s distances measures: The GeoDist database</dc:title>
+        <dc:date>2011-12</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.cepii.fr/CEPII/en/publications/wp/abstract.asp?NoDoc=3877</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <prism:number>2011-25</prism:number>
+        <z:type>Working Papers</z:type>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_111">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/111/Notes on CEPII’s distances measures: The GeoDist database.pdf"/>
+        <dc:title>Notes on CEPII’s distances measures: The GeoDist database.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.jstor.org/stable/2725306">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00220515"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shoven</foaf:surname>
+                        <foaf:givenName>John B</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Whalley</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_97"/>
+        <dc:title>Applied general-equilibrium models of taxation and international trade: An introduction and survey</dc:title>
+        <dc:date>1984</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jstor.org/stable/2725306</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1007–1051</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00220515">
+        <prism:volume>22</prism:volume>
+        <dc:title>Journal of Economic literature</dc:title>
+        <dc:identifier>DOI 10.2307/2725306</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 00220515</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_97">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/97/Applied general-equilibrium models of taxation and international trade: An introduction and survey.pdf"/>
+        <dc:title>Applied general-equilibrium models of taxation and international trade: An introduction and survey.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-0-444-54314-1">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>Handbook of International Economics</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>4</prism:volume>
+                <dc:identifier>ISBN 978-0-444-54314-1</dc:identifier>
+                <dc:title>Handbook of International Economics</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Elsevier</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Head</foaf:surname>
+                        <foaf:givenName>Keith</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mayer</foaf:surname>
+                        <foaf:givenName>Thierry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gopinath</foaf:surname>
+                        <foaf:givenName>Gita</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Helpman</foaf:surname>
+                        <foaf:givenName>Elhanan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rogoff</foaf:surname>
+                        <foaf:givenName>Kenneth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_102"/>
+        <dcterms:isReferencedBy rdf:resource="#item_103"/>
+        <dcterms:isReferencedBy rdf:resource="#item_25"/>
+        <dc:subject>Bilateral trade</dc:subject>
+        <dc:subject>Borders</dc:subject>
+        <dc:subject>Distance</dc:subject>
+        <dc:subject>Heterogeneous firms</dc:subject>
+        <dc:subject>Poisson</dc:subject>
+        <dc:subject>Trade cost elasticity</dc:subject>
+        <dc:title>Gravity Equations: Workhorse,Toolkit, and Cookbook</dc:title>
+        <dc:date>2014</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/handbook/handbook-of-international-economics</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>131 – 195</bib:pages>
+    </bib:BookSection>
+    <bib:Memo rdf:about="#item_102">
+       <rdf:value>&lt;p&gt;Chapter: 3&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_103">
+        <rdf:value>&lt;p&gt;DOI: 10.1016/B978-0-444-54314-1.00003-3&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_25">
+       <rdf:value>&lt;p&gt;ISSN: 1573-4404&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.aeaweb.org/articles?id=10.1257/aer.100.5.2157">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>100</prism:volume>
+                <dc:title>American Economic Review</dc:title>
+                <dc:identifier>DOI 10.1257/aer.100.5.2157</dc:identifier>
+                <prism:number>5</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anderson</foaf:surname>
+                        <foaf:givenName>James E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yotov</foaf:surname>
+                        <foaf:givenName>Yoto V</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The changing incidence of geography</dc:title>
+        <dc:date>2010</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.aeaweb.org/articles?id=10.1257/aer.100.5.2157</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>2157–86</bib:pages>
+    </bib:Article>
+    <bib:BookSection rdf:about="urn:isbn:978-0-511-76210-9">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-511-76210-9</dc:identifier>
+                <dc:title>The Gravity Model in International Trade: Advances and Applications</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cambridge</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anderson</foaf:surname>
+                        <foaf:givenName>J. E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_123"/>
+        <dc:title>The Incidence of Gravity</dc:title>
+        <dc:date>2010</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/books/gravity-model-in-international-trade/586E687C95BC7AE02B0C6EF1456F1CD9</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>71-87</bib:pages>
+        <prism:edition>1</prism:edition>
+    </bib:BookSection>
+    <bib:Memo rdf:about="#item_123">
+       <rdf:value>&lt;p&gt;Chapter: 3&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="http://www.jstor.org/stable/1802501">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00028282"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anderson</foaf:surname>
+                        <foaf:givenName>James E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_95"/>
+        <dc:title>A theoretical foundation for the gravity equation</dc:title>
+        <dc:date>1979</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.jstor.org/stable/1802501</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>106–116</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00028282">
+        <prism:volume>69</prism:volume>
+        <dc:title>The American economic review</dc:title>
+        <dc:identifier>DOI 10.2307/1802501</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 00028282</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_95">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/95/A theoretical foundation for the gravity equation.pdf"/>
+        <dc:title>A theoretical foundation for the gravity equation.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.aeaweb.org/articles?id=10.1257/000282803321455214">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>93</prism:volume>
+                <dc:title>American economic review</dc:title>
+                <dc:identifier>DOI 10.1257/000282803321455214</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anderson</foaf:surname>
+                        <foaf:givenName>James E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van Wincoop</foaf:surname>
+                        <foaf:givenName>Eric</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Gravity with gravitas: A solution to the border puzzle</dc:title>
+        <dc:date>2003</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.aeaweb.org/articles?id=10.1257/000282803321455214</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>170–192</bib:pages>
+    </bib:Article>
+    <bib:Report rdf:about="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4196">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>National Bureau of Economic Research</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wei</foaf:surname>
+                        <foaf:givenName>Shang-Jin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_109"/>
+        <dc:title>Intra-national versus international trade: how stubborn are nations in global integration?</dc:title>
+        <dc:date>1996</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4196</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_109">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/109/Intra-national versus international trade: how stubborn are nations in global integration?.pdf"/>
+        <dc:title>Intra-national versus international trade: how stubborn are nations in global integration?.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0022199608000998">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>77</prism:volume>
+                <dc:title>Journal of international Economics</dc:title>
+                <dc:identifier>DOI 10.1016/j.jinteco.2008.09.006</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baier</foaf:surname>
+                        <foaf:givenName>Scott L</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bergstrand</foaf:surname>
+                        <foaf:givenName>Jeffrey H</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_115"/>
+        <dc:title>Estimating the effects of free trade agreements on international trade flows using matching econometrics</dc:title>
+        <dc:date>2009</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0022199608000998</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>63–76</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_115">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/115/Estimating the effects of free trade agreements on international trade flows using matching econometrics.pdf"/>
+        <dc:title>Estimating the effects of free trade agreements on international trade flows using matching econometrics.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="https://www.cambridge.org/core/books/gravity-model-in-international-trade/586E687C95BC7AE02B0C6EF1456F1CD9">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-511-76210-9</dc:identifier>
+                <dc:title>The Gravity Model in International Trade: Advances and Applications</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cambridge</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baier</foaf:surname>
+                        <foaf:givenName>S. L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bergstrand</foaf:surname>
+                        <foaf:givenName>J. H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van Bergeijk, P.A.G. and Brakman, S.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_35"/>
+        <dcterms:isReferencedBy rdf:resource="#item_98"/>
+        <dc:title>Approximating General Equilibrium Impacts of Trade Liberalizations Using the Gravity Equation: Applications to NAFTA and the European Economic Area</dc:title>
+        <dc:date>2010</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/books/gravity-model-in-international-trade/586E687C95BC7AE02B0C6EF1456F1CD9</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>88–134</bib:pages>
+        <prism:edition>1</prism:edition>
+    </bib:BookSection>
+    <bib:Memo rdf:about="#item_35">
+       <rdf:value>&lt;p&gt;Chapter: 4&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_98">
+       <rdf:value>&lt;p&gt;DOI: 10.1017/CBO9780511762109&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="urn:isbn:978-1-4987-5980-9">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>CRC press</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wickham</foaf:surname>
+                        <foaf:givenName>Hadley</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Advanced R</dc:title>
+        <dc:date>2019</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://adv-r.hadley.nz/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:identifier>ISBN 978-1-4987-5980-9</dc:identifier>
+    </bib:Book>
+    <bib:Book rdf:about="#item_37">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Twentieth Century Fund</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tinbergen</foaf:surname>
+                        <foaf:givenName>Jan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Shaping the World Economy: Suggestions for an International Economic Policy</dc:title>
+        <dc:date>1962-11</dc:date>
+    </bib:Book>
+    <bib:Article rdf:about="https://www.jstor.org/stable/2979181">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>LII</prism:volume>
+                <dc:title>Journal of the Royal Statistical Society</dc:title>
+                <dc:identifier>DOI 10.2307/2979181</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ravenstein</foaf:surname>
+                        <foaf:givenName>E. G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_124"/>
+        <dc:title>The Laws of Migration</dc:title>
+        <dc:date>1889-06</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jstor.org/stable/2979181</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>241–301</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_124">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/124/The Laws of Migration.pdf"/>
+        <dc:title>The Laws of Migration.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-111809-125114">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>3</prism:volume>
+                <dc:title>Annual Review of Economics</dc:title>
+                <dc:identifier>DOI 10.3386/w16576</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anderson</foaf:surname>
+                        <foaf:givenName>James E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Gravity Model</dc:title>
+        <dc:date>2011-12</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-111809-125114</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>133–160</bib:pages>
+    </bib:Article>
+    <bib:Book rdf:about="#item_41">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Benjamin Motte, at the Middle-Temple-Gate, in Fleetstreet</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Newton</foaf:surname>
+                        <foaf:givenName>Isaac</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Mathematical Principles of Natural Philosophy. By Sir Isaac Newton. Translated into English by Andrew Motte. To Which are Added, The Laws of the Moon's Motion, According to Gravity. By John Machin Astron. Prof. Gresh. and Secr. R. Soc. In two volumes</dc:title>
+        <dc:date>1729</dc:date>
+    </bib:Book>
+    <bib:Article rdf:about="https://www.jstor.org/stable/23000919">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>22</prism:volume>
+                <dc:title>Journal of Economic Integration</dc:title>
+                <dc:identifier>DOI 10.2307/23000919</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baldwin</foaf:surname>
+                        <foaf:givenName>Richard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_128"/>
+        <dc:subject>Euro</dc:subject>
+        <dc:subject>Gravity</dc:subject>
+        <dc:subject>Trade</dc:subject>
+        <dc:title>Trade Effects of the Euro: A Comparison of Estimators</dc:title>
+        <dc:date>2007</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jstor.org/stable/23000919</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>780–818</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_128">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/128/Trade Effects of the Euro: A Comparison of Estimators.pdf"/>
+        <dc:title>Trade Effects of the Euro: A Comparison of Estimators.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/full/10.1080/17421770902834327">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>4</prism:volume>
+                <dc:title>Spatial Economic Analysis</dc:title>
+                <dc:identifier>DOI 10.1080/17421770902834327</dc:identifier>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burger</foaf:surname>
+                        <foaf:givenName>Martijn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van Oort</foaf:surname>
+                        <foaf:givenName>Frank</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Linders</foaf:surname>
+                        <foaf:givenName>Gert-Jan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_44"/>
+        <link:link rdf:resource="#item_112"/>
+        <dc:title>On the Specification of the Gravity Model of Trade: Zeros, Excess Zeros and Zero-Inflated Estimation</dc:title>
+        <dc:date>2009</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/17421770902834327</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>167–190</bib:pages>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_44">
+        <rdf:value>&lt;p&gt;Publisher: Taylor &amp;amp; Francis&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_112">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/112/On the Specification of the Gravity Model of Trade Zeros Excess Zeros and Zero inflated Estimation.pdf"/>
+        <dc:title>On the Specification of the Gravity Model of Trade Zeros Excess Zeros and Zero inflated Estimation.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://link.springer.com/article/10.1007/s00181-012-0576-2">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>44</prism:volume>
+                <dc:title>Empirical Economics</dc:title>
+                <dc:identifier>DOI 10.1007/s00181-012-0576-2</dc:identifier>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gómez-Herrera</foaf:surname>
+                        <foaf:givenName>Estrella</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_113"/>
+        <dc:title>Comparing Alternative Methods to Estimate Gravity Models of Bilateral Trade</dc:title>
+        <dc:date>2013</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/article/10.1007/s00181-012-0576-2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1087–1111</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_113">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/113/Comparing Alternative Methods to Estimate Gravity Models of Bilateral Trade.pdf"/>
+        <dc:title>Comparing Alternative Methods to Estimate Gravity Models of Bilateral Trade.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://hdl.handle.net/10419/126396">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>77</prism:volume>
+                <dc:title>GlobalFood Discussion Papers</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kareem</foaf:surname>
+                        <foaf:givenName>Fatima Olanike</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martinez-Zarzoso</foaf:surname>
+                        <foaf:givenName>Inmaculada</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brümmer</foaf:surname>
+                        <foaf:givenName>Bernhard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_48"/>
+        <dc:title>Fitting the Gravity Model when Zero Trade Flows are Frequent: A Comparison of Estimation Techniques using Africa's Trade Data</dc:title>
+        <dc:date>2016</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://hdl.handle.net/10419/126396</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_48">
+        <rdf:value>&lt;p&gt;Publisher: GlobalFood Discussion Papers&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=924160">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>072</prism:volume>
+                <dc:title>Tinbergen Institute Discussion Paper</dc:title>
+                <dc:identifier>DOI 10.2139/ssrn.924160</dc:identifier>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Linders</foaf:surname>
+                        <foaf:givenName>Gert-Jan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Groot</foaf:surname>
+                        <foaf:givenName>Henri LF</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_119"/>
+        <dc:title>Estimation of the Gravity Equation in the Presence of Zero Flows</dc:title>
+        <dc:date>2006</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=924160</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_119">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/119/Estimation of the Gravity Equation in the Presence of Zero Flows.pdf"/>
+        <dc:title>Estimation of the Gravity Equation in the Presence of Zero Flows.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://link.springer.com/article/10.1007/s001810200146">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>28</prism:volume>
+                <dc:title>Empirical Economics</dc:title>
+                <dc:identifier>DOI 10.1007/s001810200146</dc:identifier>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Egger</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pfaffermayr</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_127"/>
+        <dc:title>The Proper Panel Econometric Specification of the Gravity Equation: A Three-Way Model with Bilateral Interaction Effects</dc:title>
+        <dc:date>2003</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/article/10.1007/s001810200146</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>571–580</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_127">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/127/The Proper Panel Econometric Specification of the Gravity Equation: A Three-Way Model with Bilateral Interaction Effects.pdf"/>
+        <dc:title>The Proper Panel Econometric Specification of the Gravity Equation: A Three-Way Model with Bilateral Interaction Effects.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0022199610000036">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>81</prism:volume>
+                <dc:title>Journal of International Economics</dc:title>
+                <dc:identifier>DOI 10.1016/j.jinteco.2010.01.002</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Head</foaf:surname>
+                        <foaf:givenName>Keith</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mayer</foaf:surname>
+                        <foaf:givenName>Thierry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ries</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_122"/>
+        <dc:subject>Trade Gravity Colonies</dc:subject>
+        <dc:title>The Erosion of Colonial Trade Linkages After Independence</dc:title>
+        <dc:date>2010-05</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0022199610000036</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1–14</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_122">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/122/The Erosion of Colonial Trade Linkages After Independence.pdf"/>
+        <dc:title>The Erosion of Colonial Trade Linkages After Independence.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9485.00244">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>49</prism:volume>
+                <dc:title>Scottish Journal of Political Economy</dc:title>
+                <dc:identifier>DOI 10.1111/1467-9485.00244</dc:identifier>
+                <prism:number>5</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Feenstra</foaf:surname>
+                        <foaf:givenName>Robert C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Border Effects and the Gravity Equation: Consistent Methods for Estimation</dc:title>
+        <dc:date>2002</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9485.00244</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>491–506</bib:pages>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-0-691-16164-8">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Princeton, New Jersey</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Princeton University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Feenstra</foaf:surname>
+                        <foaf:givenName>Robert C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Advanced International Trade - Theory and Evidence</dc:title>
+        <dc:date>2004</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://press.princeton.edu/books/hardcover/9780691161648/advanced-international-trade</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <prism:volume>1</prism:volume>
+        <dc:identifier>ISBN 978-0-691-16164-8</dc:identifier>
+        <prism:edition>2</prism:edition>
+    </bib:Book>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0022199608001062">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>77</prism:volume>
+                <dc:title>Journal of International Economics</dc:title>
+                <dc:identifier>DOI 10.1016/j.jinteco.2008.10.004</dc:identifier>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baier</foaf:surname>
+                        <foaf:givenName>Scott L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bergstrand</foaf:surname>
+                        <foaf:givenName>Jeffrey H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_101"/>
+        <dc:subject>International trade Gravity equation Multilateral resistance terms Border barriers</dc:subject>
+        <dc:title>Bonus Vetus OLS: A Simple Method for Approximating International Trade-Cost Effects Using the Gravity Equation</dc:title>
+        <dcterms:abstract>Using a Taylor-series expansion, we solve for a simple reduced-form gravity equation revealing a transparent theoretical relationship among bilateral trade flows, incomes, and trade costs, based upon the model in Anderson and van Wincoop [Anderson, James E., and van Wincoop, Eric. &amp;quot;Gravity with Gravitas: A Solution to the Border Puzzle.&amp;quot; American Economic Review 93, no. 1 (March 2003): 170-192.]. Monte Carlo results support that virtually identical coefficient estimates are obtained easily by estimating the reduced-form gravity equation including theoretically-motivated exogenous multilateral resistance terms. We show our methodology generalizes to many settings and delineate the economic conditions under which our approach works well for computing comparative statics and under which it does not.</dcterms:abstract>
+        <dc:date>2009-02</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0022199608001062</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>77–85</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_101">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/101/Bonus Vetus OLS: A Simple Method for Approximating International Trade-Cost Effects Using the Gravity Equation.pdf"/>
+        <dc:title>Bonus Vetus OLS: A Simple Method for Approximating International Trade-Cost Effects Using the Gravity Equation.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0889158384710252">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <dc:title>Journal of the Japanese and international economies</dc:title>
+                <dc:identifier>DOI 10.1006/jjie.1994.1025</dc:identifier>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eaton</foaf:surname>
+                        <foaf:givenName>Jonathan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tamura</foaf:surname>
+                        <foaf:givenName>Akiko</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_100"/>
+        <dc:title>Bilateralism and Regionalism in Japanese and US Trade and Direct Foreign Investment Patterns</dc:title>
+        <dc:date>1994</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0889158384710252</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>478–510</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_100">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/100/Bilateralism and Regionalism in Japanese and US Trade and Direct Foreign Investment Patterns.pdf"/>
+        <dc:title>Bilateralism and Regionalism in Japanese and US Trade and Direct Foreign Investment Patterns.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://academic.oup.com/ectj/article-abstract/10/3/488/5062587">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>10</prism:volume>
+                <dc:title>The Econometrics Journal</dc:title>
+                <dc:identifier>DOI 10.1111/j.1368-423X.2007.00218.x</dc:identifier>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carson</foaf:surname>
+                        <foaf:givenName>Richard T</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>Yixiao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Tobit Model with a Non-Zero Threshold</dc:title>
+        <dc:date>2007</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/ectj/article-abstract/10/3/488/5062587</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>488–502</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.jstor.org/stable/1907382">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00129682,%2014680262"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tobin</foaf:surname>
+                        <foaf:givenName>James</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_118"/>
+        <dc:title>Estimation of Relationships for Limited Dependent Variables</dc:title>
+        <dc:date>1958</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.jstor.org/stable/1907382</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>24–36</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00129682,%2014680262">
+        <prism:volume>26</prism:volume>
+        <dc:title>Econometrica</dc:title>
+        <dc:identifier>DOI 10.2307/1907382</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 00129682, 14680262</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_118">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/118/Estimation of Relationships for Limited Dependent Variables.pdf"/>
+        <dc:title>Estimation of Relationships for Limited Dependent Variables.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/abs/10.1198/jbes.2010.07136">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>29</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>2</prism:volume>
+                <dc:title>Journal of Business &amp; Economic Statistics</dc:title>
+                <dc:identifier>DOI 10.1198/jbes.2010.07136</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cameron</foaf:surname>
+                        <foaf:givenName>A .Colin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gelbach</foaf:surname>
+                        <foaf:givenName>Jonah B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miller</foaf:surname>
+                        <foaf:givenName>Douglas L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_121"/>
+        <dc:title>Robust Inference with Multiway Clustering</dc:title>
+        <dc:date>2011</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/abs/10.1198/jbes.2010.07136</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>238–249</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_121">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/121/Robust Inference With Multiway Clustering.pdf"/>
+        <dc:title>Robust Inference With Multiway Clustering.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_67">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>50</prism:volume>
+                <dc:title>Empirical Economics</dc:title>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Egger</foaf:surname>
+                        <foaf:givenName>Peter H</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Staub</foaf:surname>
+                        <foaf:givenName>Kevin E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>GLM Estimation of Trade Gravity Models with Fixed Effects</dc:title>
+        <dc:date>2016</dc:date>
+        <bib:pages>137–175</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_69">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>112</prism:volume>
+                <dc:title>Economics Letters</dc:title>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Santos Silva</foaf:surname>
+                        <foaf:givenName>JMC</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tenreyro</foaf:surname>
+                        <foaf:givenName>Silvana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_70"/>
+        <dc:title>Further Simulation Evidence on the Performance of the Poisson Pseudo-Maximum Likelihood Estimator</dc:title>
+        <dc:date>2011</dc:date>
+        <bib:pages>220–222</bib:pages>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_70">
+       <rdf:value>&lt;p&gt;Publisher: Elsevier&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0014292100001033">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>45</prism:volume>
+                <dc:title>European Economic Review</dc:title>
+                <dc:identifier>DOI 10.1016/S0014-2921(00)00103-3</dc:identifier>
+                <prism:number>7</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eaton</foaf:surname>
+                        <foaf:givenName>Jonathan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kortum</foaf:surname>
+                        <foaf:givenName>Samuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_129"/>
+        <dc:title>Trade in Capital Goods</dc:title>
+        <dc:date>2001</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0014292100001033</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1195–1235</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_129">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/129/Trade in Capital Goods.pdf"/>
+        <dc:title>Trade in Capital Goods.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0167629601000868">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>20</prism:volume>
+                <dc:title>Journal of Health Economics</dc:title>
+                <dc:identifier>DOI 10.1016/S0167-6296(01)00086-8</dc:identifier>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Manning</foaf:surname>
+                        <foaf:givenName>Willard G</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mullahy</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_114"/>
+        <dc:title>Estimating Log Models: To Transform or not to Transform?</dc:title>
+        <dc:date>2001</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0167629601000868</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>461–494</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_114">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/114/Estimating Log Models: To Transform or not to Transform?.pdf"/>
+        <dc:title>Estimating Log Models: To Transform or not to Transform?.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/full/10.1080/00036846.2011.599786">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>45</prism:volume>
+                <dc:title>Applied Economics</dc:title>
+                <dc:identifier>DOI 10.1080/00036846.2011.599786</dc:identifier>
+                <prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martínez-Zarzoso</foaf:surname>
+                        <foaf:givenName>Inmaculada</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_126"/>
+        <dc:title>The Log of Gravity Revisited</dc:title>
+        <dc:date>2013</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/00036846.2011.599786</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>311–327</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_126">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/126/The log of gravity revisited.pdf"/>
+        <dc:title>The log of gravity revisited.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="https://www.unescap.org/resources/gravity-model-international-trade-user-guide-updated-version">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>United Nations ESCAP and ARTNeT</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shepherd</foaf:surname>
+                        <foaf:givenName>Ben</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_105"/>
+        <dc:title>Gravity model of international trade: A user guide</dc:title>
+        <dc:date>2016</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unescap.org/resources/gravity-model-international-trade-user-guide-updated-version</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_105">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/105/Gravity model of international trade: A user guide.pdf"/>
+        <dc:title>Gravity model of international trade: A user guide.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="https://www.unescap.org/resources/gravity-model-international-trade-user-guide-r-version">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>United Nations ESCAP and ARTNeT</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shepherd</foaf:surname>
+                        <foaf:givenName>Ben</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Doytchinova</foaf:surname>
+                        <foaf:givenName>Hriyana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kravchenko</foaf:surname>
+                        <foaf:givenName>Alexey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_104"/>
+        <dc:title>Gravity model of international trade: A user guide (R Version)</dc:title>
+        <dc:date>2019</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.unescap.org/resources/gravity-model-international-trade-user-guide-r-version</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_104">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/104/Gravity model of international trade: A user guide (R Version).pdf"/>
+        <dc:title>Gravity model of international trade: A user guide (R Version).pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_84">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Routledge</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McCullagh</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nelder</foaf:surname>
+                        <foaf:givenName>John A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Generalized linear models</dc:title>
+        <dc:date>1989</dc:date>
+    </bib:Book>
+    <bib:Article rdf:about="#item_85">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>16</prism:volume>
+                <dc:title>SIAM Journal on Numerical Analysis</dc:title>
+                <prism:number>1</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Paige</foaf:surname>
+                        <foaf:givenName>Christopher C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Fast numerically stable computations for generalized linear least squares problems</dc:title>
+        <dc:date>1979</dc:date>
+        <dc:description>Publisher: SIAM</dc:description>
+        <bib:pages>165–171</bib:pages>
+    </bib:Article>
+    <bib:BookSection rdf:about="#item_86">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-511-76210-9</dc:identifier>
+                <dc:title>The Gravity Model in International Trade - Advances and Applications</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Möhlmann</foaf:surname>
+                        <foaf:givenName>L. J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ederveen</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Groot</foaf:surname>
+                        <foaf:givenName>H. L. F. de</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Linders</foaf:surname>
+                        <foaf:givenName>G.-J. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peter A. G. van Bergeijk and Steven Brakman</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_108"/>
+        <dcterms:isReferencedBy rdf:resource="#item_107"/>
+        <dc:title>Intangible Barriers to International Trade: A Sectoral Approach</dc:title>
+        <dc:date>2010</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/books/gravity-model-in-international-trade/586E687C95BC7AE02B0C6EF1456F1CD9</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Section: 8</dc:description>
+        <bib:pages>224-251</bib:pages>
+        <prism:edition>1</prism:edition>
+    </bib:BookSection>
+    <bib:Memo rdf:about="#item_108">
+       <rdf:value>&lt;p&gt;Chapter: 8&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_107">
+       <rdf:value>&lt;p&gt;DOI: 10.1017/CBO9780511762109&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Report rdf:about="#item_87">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Johannes Gutenberg-Universität Mainz, Institut für Statistik und Ökonometrie</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Orlova</foaf:surname>
+                        <foaf:givenName>Daria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jost</foaf:surname>
+                        <foaf:givenName>Timo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_120"/>
+        <dc:title>Zur Erklärung der Zuwanderungen nach Deutschland: ein Gravitationsmodell (Explaining the immigration to Germany: A gravitational model)</dc:title>
+        <dc:date>2006</dc:date>
+        <prism:number>36</prism:number>
+        <z:type>Arbeitspapiere des Instituts für Statistik und Ökonometrie</z:type>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_120">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/120/Zur Erklärung der Zuwanderungen nach Deutschland: ein Gravitationsmodell (Explaining the immigration to Germany: A gravitational model).pdf"/>
+        <dc:title>Zur Erklärung der Zuwanderungen nach Deutschland: ein Gravitationsmodell (Explaining the immigration to Germany: A gravitational model).pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/full/10.1080/09638199.2013.861006">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>23</prism:volume>
+                <dc:title>The Journal of International Trade &amp; Economic Development</dc:title>
+                <dc:identifier>DOI 10.1080/09638199.2013.861006</dc:identifier>
+                <prism:number>8</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leibrecht</foaf:surname>
+                        <foaf:givenName>Markus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riedl</foaf:surname>
+                        <foaf:givenName>Aleksandra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_110"/>
+        <dc:subject>Central and Eastern Europe</dc:subject>
+        <dc:subject>Foreign Direct Investment</dc:subject>
+        <dc:subject>Spatial Econometrics</dc:subject>
+        <dc:subject>Third country effects</dc:subject>
+        <dc:title>Modelling FDI Based on a Spatially Augmented Gravity Model: Evidence for Central and Eastern European Countries</dc:title>
+        <dcterms:abstract>Based on a spatially augmented gravity model the current paper isolates spatial interrelationships in Foreign Direct Investment (FDI) to Central and Eastern European Countries (CEECs) not only across the destination but also across the origin country dimension of FDI. Results show that: (i) spatial interrelationships across destination countries are present and are consistent with the predom- inance of vertical-complex FDI in total FDI; (ii) spatial correlation across origin countries is given in earlier years of transition, while demonstration and competition effects cancel over the whole sample period; and (iii) agglomeration forces gain in importance for FDI to CEECs.</dcterms:abstract>
+        <dc:date>2014-04</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/09638199.2013.861006</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: University of Lüneburg, Institute of Economics</dc:description>
+        <bib:pages>1206–1237</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_110">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/110/Modeling FDI based on a spatially augmented gravity model Evidence for Central and Eastern European Countries.pdf"/>
+        <dc:title>Modeling FDI based on a spatially augmented gravity model Evidence for Central and Eastern European Countries.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.cepii.fr/CEPII/en/publications/wp/abstract.asp?NoDoc=2726">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaulier</foaf:surname>
+                        <foaf:givenName>Guillaume</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zignago</foaf:surname>
+                        <foaf:givenName>Soledad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_99"/>
+        <dc:title>Baci: international trade database at the product-level (the 1994-2007 version)</dc:title>
+        <dc:date>2010</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.cepii.fr/CEPII/en/publications/wp/abstract.asp?NoDoc=2726</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Publisher: CEPII Working Paper 2010-23</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_99">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/99/Baci: international trade database at the product-level (the 1994-2007 version).pdf"/>
+        <dc:title>Baci: international trade database at the product-level (the 1994-2007 version).pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/full/10.1080/00036846.2019.1687838">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>52</prism:volume>
+                <dc:title>Applied Economics</dc:title>
+                <dc:identifier>DOI 10.1080/00036846.2019.1687838</dc:identifier>
+                <prism:number>26</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martin</foaf:surname>
+                        <foaf:givenName>William</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pham</foaf:surname>
+                        <foaf:givenName>Cong S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_117"/>
+        <dc:title>Estimating the gravity model when zero trade flows are frequent and economically determined</dc:title>
+        <dc:date>2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/00036846.2019.1687838</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>2766-2779</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_117">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/117/Estimating the gravity model when zero trade flows are frequent and economically determined.pdf"/>
+        <dc:title>Estimating the gravity model when zero trade flows are frequent and economically determined.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
